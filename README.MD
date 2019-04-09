@@ -12,7 +12,7 @@ It also support A04, A08 events, but you can extend it to support others.
 
 ## Installing and Running
 
-This is a Node.js and Express with Typescript based code base but it is a command-line app and not a web app.
+This is a Node.js with Typescript based code base but it is a command-line app and not a web app.
 Use the standard Node.js and NPM build steps.
 
     npm install
