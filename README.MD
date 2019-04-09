@@ -99,18 +99,4 @@ can have as many events as a memory can hold, easily a few GB of HL7 raw message
        ::: Change in field 44 (Admit Date/Time),
        ::: WAS "20190325081439"
        ::: NOW "20190325081944"
-    
-    ** NEW A08 EVENT on 8:21:10 AM, FOR MRN: 12345678**
-    >> PV1 change:
-       ::: Change in field 7 (Attending Doctor),
-       ::: WAS "8877^Toyoda^Mitsuko^R~8877^Toyoda^MitsukoR"
-       ::: NOW "9988^Honda^Fuyuko"
-       ::: Change in field 8 (Referring Doctor),
-       ::: WAS "8877^Toyoda^Mitsuko^R~8877^Toyoda^MitsukoR"
-       ::: NOW "9988^Honda^Fuyuko"
-       ::: Change in field 17 (Admitting Doctor),
-       ::: WAS "8877^Toyoda^Mitsuko^R~8877^Toyoda^MitsukoR"
-       ::: NOW "9988^Honda^Fuyuko"
-       ::: Change in field 44 (Admit Date/Time),
-       ::: WAS "20190325081944"
-       ::: NOW "20190325081439"
+    ....
