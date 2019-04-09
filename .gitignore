@@ -1,6 +1,10 @@
+phi
+*.js
+*.map
 # Logs
 logs
 *.log
+*.iml
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
